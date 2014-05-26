@@ -3,7 +3,7 @@
 ##Description
 This is a code book for the *"Human Activity Recognition Using Smartphones"* data set found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and described [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).  The code book reflects the set after processing with run_analysis.R
 
-##Activity
+## Activity
 Six values exist for the variable Activity:
   1. walking
   2. walkingup - Walking Upstairs
@@ -12,9 +12,9 @@ Six values exist for the variable Activity:
   5. standing
   6. laying
   
-##Time Domain Signals
-
-###t.body.acc
+## Time Domain Signals
+ 
+### t.body.acc
 Body acceleration signals for 3 axial directions (x, y, z) and includes mean and standard deviation for each.
 
     t.body.acc.mean.x
